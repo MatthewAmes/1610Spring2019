@@ -9,10 +9,14 @@ public class Animal : MonoBehaviour
 	public Color SkinColor;
 	public int Health;
 	public float Speed;
+	public bool CanMove
 	
+	public UnityEvent 
+
 	// Use this for initialization
-	void Start () {
-		
+	void Start ()
+	{
+		Event.Invoke();
 	}
 	
 	// Update is called once per frame

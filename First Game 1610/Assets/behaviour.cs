@@ -2,14 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : MonoBehaviour
-{
+public class behaviour : MonoBehaviour {
 
-	public string Name;
-	public Color SkinColor;
-	public int Health;
-	public float Speed;
-	
 	// Use this for initialization
 	void Start () {
 		
