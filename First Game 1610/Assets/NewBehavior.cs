@@ -6,9 +6,9 @@ public class Animal : MonoBehaviour
 {
 
 	public string Name;
-	public Color SkinColor;
+	public FloatData SkinColor;
 	public int Health;
-	public float Speed;
+	public FloatData;
 	public bool CanMove
 	
 	public UnityEvent 
