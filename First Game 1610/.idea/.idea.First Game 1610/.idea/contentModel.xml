@@ -6,7 +6,18 @@
     <e p="C:\Users\10784927\Desktop\1610Spring2019\First Game 1610" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="CatEvent.cs" t="Include" />
+        <e p="PowerUpBase.cs" t="Include" />
+        <e p="scripts" t="Include">
+          <e p="behaviour.cs" t="Include" />
+          <e p="CatEvent.cs" t="Include" />
+          <e p="Cube.cs" t="Include" />
+          <e p="GearEvent.cs" t="Include" />
+          <e p="NewBehavior.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+        </e>
+        <e p="Value" t="Include">
+          <e p="FloatData.cs" t="Include" />
+        </e>
       </e>
       <e p="First Game 1610.sln" t="IncludeFlat" />
       <e p="Library" t="ExcludeRecursive" />
